@@ -10,7 +10,9 @@ nav, figcaption {
   text-align: center;
 }
 nav a {
-  background-color: lightgrey;
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
 }
 img {
   display: block;
