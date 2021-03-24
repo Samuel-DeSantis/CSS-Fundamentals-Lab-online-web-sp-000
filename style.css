@@ -12,6 +12,10 @@ nav, figcaption {
 nav a {
   background-color: lightgrey;
 }
+img {
+  display: block;
+  margin: 0 auto;
+}
 figure {
   display: block;
   margin-left: auto;
