@@ -18,6 +18,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0;
+}
 #details div {
   float: left;
   background-color: red;
