@@ -16,7 +16,7 @@ h1 {
   align-self: center;
 }
 section#details {
-  display: inline;
+
   background-color: red;
   text-align: center;
 }
